@@ -1,6 +1,6 @@
 # hw4
 
-A new Flutter project.
+A new Flutter project called Registration using Android Studio.
 
 ## Getting Started
 
