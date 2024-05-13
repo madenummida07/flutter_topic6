@@ -1,4 +1,4 @@
-# hw4
+# flutter_topic6
 
 A new Flutter project called Registration using Android Studio.
 
